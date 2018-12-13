@@ -1,10 +1,10 @@
 {
   "name": "react-pdf-js",
-  "version": "4.0.2",
+  "version": "4.0.2-dataplan-1.1",
   "description": "Simple React component to wrap up PDF.js. The easiest way to render PDFs in your React app.",
-  "author": "mikecousins",
+  "author": "Johnogram",
   "license": "MIT",
-  "repository": "mikecousins/react-pdf-js",
+  "repository": "Johnogram/react-pdf-js",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
